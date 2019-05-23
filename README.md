@@ -2,7 +2,7 @@
 Here is the rule of game nine board tic-tac-toe:
 http://www.cse.unsw.edu.au/~cs3411/19t1/hw3/
 
-This program implements alpha-beta pruning search algorithm with default depth-limited of 5. A self-defined heuristic
+This python program implements alpha-beta pruning search algorithm with default depth-limited of 5. A self-defined heuristic
 function (describe below) is to evaluate the value when it reaches the depth limit. The AI player takes about 0.5 second to
 calculate the move in the beginning but as the game develops it will be faster. The AI player is able to effectively
 beat human and perform as well as "lookt" at the same depth. But in order to achieve better performance, it takes more
